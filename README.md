@@ -1,5 +1,4 @@
 # AI Land Price Predictor 🏠
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/destiny07-dot/AI-Predictive-model-/blob/main/land_price_predictor.ipynb)
 
 ## Project Overview
